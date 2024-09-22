@@ -1,0 +1,13 @@
+Source:,E:\Github Project Catalog\LDO_Module\LDO_Module.kicad_sch,,,,,,,,,,,,,
+Date:,9/22/2024,,,,,,,,,,,,,
+Tool:,Eeschema 7.0.9,,,,,,,,,,,,,
+Generator:,C:\Program Files\KiCad\7.0\bin\scripting\plugins/bom_csv_grouped_by_value.py,,,,,,,,,,,,,
+Component Count:,5,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Collated Components:,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,DNP,Description,MFR. Part #,Manufacturer,Mounting Style,Package,Supplier,Supplier Part #
+1,1,C1,100nF,Device:C_Small,Capacitor_SMD:C_1812_4532Metric,~,,630V 100nF X7R 10% 1812 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,1812B104K631NT,FH (Guangdong Fenghua Advanced Tech),SMD,1812,JLCPCB,C696256
+2,1,C2,10uF,Device:C_Small,Capacitor_SMD:C_1812_4532Metric,~,,50V 10uF 10% 1812 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,FS43X106K500EGG,PSA (Prosperity Dielectrics),SMD,1812,JLCPCB,C1021609
+3,2,"J1, J2",Conn_01x02_Socket,Connector:Conn_01x02_Socket,Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal,~,,"1x2P 2P EH Tin 2 -25C~85C 3A 1 2.5mm Brass Bend insert Push-Pull, P=2.5mm Wire To Board Connector ROHS",S2B-EH(LF)(SN),JST,Through Hole,"Push-Pull, P=2.5mm",JLCPCB,C514173
+4,1,U2,LD1117S33TR_SOT223,Regulator_Linear:LD1117S33TR_SOT223,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf,,"75dB@(120Hz) 800mA Fixed 3.3V Positive electrode 15V SOT-223-4 Voltage Regulatos - Linear, Low Drop Out (LDO) Regulators ROHS",LD1117S33CTR,STMicroelectronics,SMD,SOT-223,JLCPCB,C35879

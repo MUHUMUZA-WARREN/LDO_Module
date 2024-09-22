@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>E:\Github Project Catalog\LDO_Module\LDO_Module.kicad_sch</source>
+    <date>9/22/2024 10:25:22 PM</date>
+    <tool>Eeschema 7.0.9</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>LDO MODULE</title>
+        <company>Warren Muhumuza</company>
+        <rev>1</rev>
+        <date>2024-09-22</date>
+        <source>LDO_Module.kicad_sch</source>
+        <comment number="1" value="Design Engineer"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_1812_4532Metric</footprint>
+      <fields>
+        <field name="Description">630V 100nF X7R 10% 1812 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="MFR. Part #">1812B104K631NT</field>
+        <field name="Manufacturer">FH (Guangdong Fenghua Advanced Tech)</field>
+        <field name="Mounting Style">SMD</field>
+        <field name="Package">1812</field>
+        <field name="Supplier">JLCPCB</field>
+        <field name="Supplier Part #">C696256</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="630V 100nF X7R 10% 1812 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="MFR. Part #" value="1812B104K631NT"/>
+      <property name="Manufacturer" value="FH (Guangdong Fenghua Advanced Tech)"/>
+      <property name="Mounting Style" value="SMD"/>
+      <property name="Package" value="1812"/>
+      <property name="Supplier" value="JLCPCB"/>
+      <property name="Supplier Part #" value="C696256"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LDO_Module.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b7a6a3c-67ae-4409-9251-d0520ecde14d</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1812_4532Metric</footprint>
+      <fields>
+        <field name="Description">50V 10uF 10% 1812 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+        <field name="MFR. Part #">FS43X106K500EGG</field>
+        <field name="Manufacturer">PSA (Prosperity Dielectrics)</field>
+        <field name="Mounting Style">SMD</field>
+        <field name="Package">1812</field>
+        <field name="Supplier">JLCPCB</field>
+        <field name="Supplier Part #">C1021609</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="50V 10uF 10% 1812 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"/>
+      <property name="MFR. Part #" value="FS43X106K500EGG"/>
+      <property name="Manufacturer" value="PSA (Prosperity Dielectrics)"/>
+      <property name="Mounting Style" value="SMD"/>
+      <property name="Package" value="1812"/>
+      <property name="Supplier" value="JLCPCB"/>
+      <property name="Supplier Part #" value="C1021609"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LDO_Module.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34b10ab9-f5a7-4a72-8c9c-0aa7b28e34a6</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02_Socket</value>
+      <footprint>Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal</footprint>
+      <fields>
+        <field name="Description">1x2P 2P EH Tin 2 -25C~85C 3A 1 2.5mm Brass Bend insert Push-Pull, P=2.5mm Wire To Board Connector ROHS</field>
+        <field name="MFR. Part #">S2B-EH(LF)(SN)</field>
+        <field name="Manufacturer">JST</field>
+        <field name="Mounting Style">Through Hole</field>
+        <field name="Package">Push-Pull, P=2.5mm</field>
+        <field name="Supplier">JLCPCB</field>
+        <field name="Supplier Part #">C514173</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x02_Socket" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Description" value="1x2P 2P EH Tin 2 -25C~85C 3A 1 2.5mm Brass Bend insert Push-Pull, P=2.5mm Wire To Board Connector ROHS"/>
+      <property name="MFR. Part #" value="S2B-EH(LF)(SN)"/>
+      <property name="Manufacturer" value="JST"/>
+      <property name="Mounting Style" value="Through Hole"/>
+      <property name="Package" value="Push-Pull, P=2.5mm"/>
+      <property name="Supplier" value="JLCPCB"/>
+      <property name="Supplier Part #" value="C514173"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LDO_Module.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe7ec394-13dc-4251-a967-ac2bbc7d083c</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02_Socket</value>
+      <footprint>Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal</footprint>
+      <fields>
+        <field name="Description">1x2P 2P EH Tin 2 -25C~85C 3A 1 2.5mm Brass Bend insert Push-Pull, P=2.5mm Wire To Board Connector ROHS</field>
+        <field name="MFR. Part #">S2B-EH(LF)(SN)</field>
+        <field name="Manufacturer">JST</field>
+        <field name="Mounting Style">Through Hole</field>
+        <field name="Package">Push-Pull, P=2.5mm</field>
+        <field name="Supplier">JLCPCB</field>
+        <field name="Supplier Part #">C514173</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x02_Socket" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Description" value="1x2P 2P EH Tin 2 -25C~85C 3A 1 2.5mm Brass Bend insert Push-Pull, P=2.5mm Wire To Board Connector ROHS"/>
+      <property name="MFR. Part #" value="S2B-EH(LF)(SN)"/>
+      <property name="Manufacturer" value="JST"/>
+      <property name="Mounting Style" value="Through Hole"/>
+      <property name="Package" value="Push-Pull, P=2.5mm"/>
+      <property name="Supplier" value="JLCPCB"/>
+      <property name="Supplier Part #" value="C514173"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LDO_Module.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d225d3a9-a884-420e-b292-75d3cd520bbb</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LD1117S33TR_SOT223</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf</datasheet>
+      <fields>
+        <field name="Description">75dB@(120Hz) 800mA Fixed 3.3V Positive electrode 15V SOT-223-4 Voltage Regulatos - Linear, Low Drop Out (LDO) Regulators ROHS</field>
+        <field name="MFR. Part #">LD1117S33CTR</field>
+        <field name="Manufacturer">STMicroelectronics</field>
+        <field name="Mounting Style">SMD</field>
+        <field name="Package">SOT-223</field>
+        <field name="Supplier">JLCPCB</field>
+        <field name="Supplier Part #">C35879</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="LD1117S33TR_SOT223" description="800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223"/>
+      <property name="Manufacturer" value="STMicroelectronics"/>
+      <property name="MFR. Part #" value="LD1117S33CTR"/>
+      <property name="Supplier" value="JLCPCB"/>
+      <property name="Supplier Part #" value="C35879"/>
+      <property name="Package" value="SOT-223"/>
+      <property name="Mounting Style" value="SMD"/>
+      <property name="Description" value="75dB@(120Hz) 800mA Fixed 3.3V Positive electrode 15V SOT-223-4 Voltage Regulatos - Linear, Low Drop Out (LDO) Regulators ROHS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LDO_Module.kicad_sch"/>
+      <property name="ki_description" value="800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223"/>
+      <property name="ki_keywords" value="REGULATOR LDO 3.3V"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f878a2eb-d9fc-4aa2-b58e-173a6ba454fd</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x02_Socket">
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Socket</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LD1117S33TR_SOT223">
+      <description>800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223</description>
+      <docs>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LD1117S33TR_SOT223</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/VIN">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="2" name="/VOUT">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+    </net>
+  </nets>
+</export>
